@@ -1,2 +1,4 @@
 pandas
 scikit-learn
+sklearn.Preprocessing
+sklearn.model_training

@@ -1,4 +1,5 @@
+numpy
 pandas
 scikit-learn
-sklearn.Preprocessing
-sklearn.model_training
+imbalanced-learn
+joblib
